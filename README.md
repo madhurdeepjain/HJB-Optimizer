@@ -2,7 +2,7 @@
 
 This is an implementation of the research paper "HJB-Equation-Based Optimal Learning Scheme
 for Neural Networks With Applications
-in Brain–Computer Interface" by Tharun et. al.
+in Brain–Computer Interface" by Tharun et. al. Paper can be found [here](https://ieeexplore.ieee.org/document/8437157).
 
 Within this scheme, a neural network is modeled as a control system. For training the FFNN (Feed Forward Neural Network), the weight update problem can be cast as a control problem with output error **e**(t) as the state of the dynamical system and weight updates **u**(t) as control inputs.
 
